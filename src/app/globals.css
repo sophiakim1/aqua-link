@@ -4,3 +4,6 @@ body {
   overflow-x: hidden;
 }
 
+.small-icon {
+  width: 20px;
+}

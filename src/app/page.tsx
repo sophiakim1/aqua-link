@@ -37,7 +37,145 @@ export default function Home() {
           <FontAwesomeIcon icon={faSpotify} className="small-icon" />
           <FontAwesomeIcon icon={faGithub} className="small-icon" />
         </div>
-        <div className="mainContainer"></div>
+        <div className="linkContainer">
+          <div className="linkBox">
+            <a
+              href="https://podcasters.spotify.com/pod/show/techtank6/"
+              className="link"
+            >
+              <div className="linkContent">
+                <div>
+                  <img
+                    src="/asset/guppyTalk.png"
+                    alt="Guppy Talks Podcast"
+                    className="small-icon"
+                  />
+                </div>
+                <p>Guppy Talks Podcast</p>
+              </div>
+            </a>
+          </div>
+        </div>
+
+        <div className="linkContainer">
+          <div className="linkBox">
+            <a
+              href="https://podcasters.spotify.com/pod/show/techtank6/"
+              className="link"
+            >
+              <div className="linkContent">
+                <div>
+                  <img
+                    src="/asset/guppyTalk.png"
+                    alt="Guppy Talks Podcast"
+                    className="small-icon"
+                  />
+                </div>
+                <p>Join us on Slack</p>
+              </div>
+            </a>
+          </div>
+        </div>
+
+        <div className="linkContainer">
+          <div className="linkBox">
+            <a
+              href="https://podcasters.spotify.com/pod/show/techtank6/"
+              className="link"
+            >
+              <div className="linkContent">
+                <div>
+                  <img
+                    src="/asset/guppyTalk.png"
+                    alt="Guppy Talks Podcast"
+                    className="small-icon"
+                  />
+                </div>
+                <p>Meetup Event Registration</p>
+              </div>
+            </a>
+          </div>
+        </div>
+
+        <div className="linkContainer">
+          <div className="linkBox">
+            <a
+              href="https://podcasters.spotify.com/pod/show/techtank6/"
+              className="link"
+            >
+              <div className="linkContent">
+                <div>
+                  <img
+                    src="/asset/guppyTalk.png"
+                    alt="Guppy Talks Podcast"
+                    className="small-icon"
+                  />
+                </div>
+                <p>Become a Speaker</p>
+              </div>
+            </a>
+          </div>
+        </div>
+
+        <div className="linkContainer">
+          <div className="linkBox">
+            <a
+              href="https://podcasters.spotify.com/pod/show/techtank6/"
+              className="link"
+            >
+              <div className="linkContent">
+                <div>
+                  <img
+                    src="/asset/guppyTalk.png"
+                    alt="Guppy Talks Podcast"
+                    className="small-icon"
+                  />
+                </div>
+                <p>Become a Host</p>
+              </div>
+            </a>
+          </div>
+        </div>
+
+        <div className="linkContainer">
+          <div className="linkBox">
+            <a
+              href="https://podcasters.spotify.com/pod/show/techtank6/"
+              className="link"
+            >
+              <div className="linkContent">
+                <div>
+                  <img
+                    src="/asset/guppyTalk.png"
+                    alt="Guppy Talks Podcast"
+                    className="small-icon"
+                  />
+                </div>
+                <p>Code of Conduct</p>
+              </div>
+            </a>
+          </div>
+        </div>
+
+        <div className="linkContainer">
+          <div className="linkBox">
+            <a
+              href="https://podcasters.spotify.com/pod/show/techtank6/"
+              className="link"
+            >
+              <div className="linkContent">
+                <div>
+                  <img
+                    src="/asset/guppyTalk.png"
+                    alt="Guppy Talks Podcast"
+                    className="small-icon"
+                  />
+                </div>
+                <p>Donate to TechTank 💙</p>
+              </div>
+            </a>
+          </div>
+        </div>
       </div>
     </div>
   );

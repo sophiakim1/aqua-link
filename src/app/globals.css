@@ -7,3 +7,15 @@ body {
 .small-icon {
   width: 20px;
 }
+
+.linkBox {
+  background-color: rgb(108, 204, 249);
+}
+
+.linkContent {
+  display: flex;
+}
+
+.link{
+  text-decoration: none;
+}
